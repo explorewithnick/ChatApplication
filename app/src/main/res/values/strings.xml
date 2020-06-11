@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="title_activity_individual_chat_page">IndividualChatPage</string>
+    <string name="k">k</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="don_t_have_account_yet">don\'t have account yet?</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="time_format">hh:mm aa</string>
+    <string name="hour_min_full">HH:mm</string>
+    <string name="custom_date">MMM dd, hh:mm aa</string>
+</resources>
