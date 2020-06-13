@@ -8,6 +8,7 @@
     android:background="@color/appColor2"
     tools:context="com.example.niket.chatapplication.IndividualChatPage">
 
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
